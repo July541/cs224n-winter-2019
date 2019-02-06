@@ -22,9 +22,7 @@ Week 2
 
  - [x] Slide: [Backpropagation and Computation Graphs](http://web.stanford.edu/class/cs224n/slides/cs224n-2019-lecture04-backprop.pdf)
 
- - [ ] Suggested reading: [CS231n notes on backprop](http://cs231n.github.io/optimization-2/)
-
- - [ ] Suggested reading: [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf)
+ - [x] Suggested reading: [CS231n notes on backprop](http://cs231n.github.io/optimization-2/)
 
  - [ ] Suggested reading: [Review of differential calculus](http://web.stanford.edu/class/cs224n/readings/review-differential-calculus.pdf)
 
@@ -33,6 +31,8 @@ Week 2
  - [ ] Suggested reading: [CS231n notes on network architectures](http://cs231n.github.io/neural-networks-1/)
 
  - [ ] Suggested reading: [Learning Representations by Backpropagating Errors](http://www.iro.umontreal.ca/~vincentp/ift3395/lectures/backprop_old.pdf)
+
+ - [ ] Suggested reading: [Derivatives, Backpropagation, and Vectorization](http://cs231n.stanford.edu/handouts/derivatives.pdf)
 
  - [ ] Suggested reading: [Yes you should understand backprop](https://medium.com/@karpathy/yes-you-should-understand-backprop-e2f06eab496b)
 
